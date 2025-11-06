@@ -1,1 +1,1 @@
-# DBMS_PRACTICES
+# Dbms-lab-programs
